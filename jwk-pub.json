@@ -1,11 +1,15 @@
 {
-  "keys" : [ {
-    "alg" : "RS384",
-    "ext" : true,
-    "n" : "AN-cMEIPQDLaqB_1gTFv2haWkkidts0i0dCHFZjLBXWQuzeGuZhzoYp7n359V7lKHO5EZxyHwNF6ysYKOk4CepHv0WOiSYrxf3zGUnrnk76_t_SIIg_16qq7vCUpS42dRUlpw_PFcNkUS_PNmQTyP7hi6uT36HgncqxGmE8a9T7KMJM2tEvepM_Ukr1eCk_kmp0FFKTR1QX5OhQBClAQku27NmQ5-CjojYepR9g9qQWKMNESkyiVDKtKfGIyr0gCoj-Uw-fgiTyOh94EQFnOj4JwwwlJOcoAC0842JIfXNxPYqhMkspmd_DoppkGeQV_m3E1mf-MSbLuQg66H6V8daU",
-    "kid" : "Fd5l9-DGsmXYOHu95FMZT4qG2WoyuLtklsEexkvXdzk",
-    "key_opts" : [ "verify" ],
-    "e" : "AQAB",
-    "kty" : "RSA"
-  } ]
+  "keys": [
+    {
+      "alg": "RS384",
+      "ext": true,
+      "n": "AN10-fzRrAPz1lFtNAEJC38YnK7-IGUMEHf0vbLxYSkDW5YBl5qVvif7zMWjgbHYm-4mflv4OG1Z2T0H1CR4jQTd0ovuL_mIraTGwXfaIxp6xng4tgFoEUW7V0rmK4bSPiL5t6SGmDEX3dBdp-M66LcSx_XUsIeg1a-GmC4zuawKaAsGtcnvzWtFSNkdtBpEMhpC8BVnYp9hJ3hpBXFnh2MR5QIlANUXiJfwVd2a5VY9quSe4w0sCRX24m_4_mp2Xz6tpEA_iISKMTmASHZzmTB9PsbzmZss0jFlyHJ_nk4xn3Wyhyn7bpXPf9PmgmXhf91GNRZvxR7lpfi08Fc3V9E",
+      "kid": "qkvnSvQk1h3o3AIm6uxjWv4mgLVs9Fj0nOifvgsCEAw",
+      "key_opts": [
+        "verify"
+      ],
+      "e": "AQAB",
+      "kty": "RSA"
+    }
+  ]
 }
